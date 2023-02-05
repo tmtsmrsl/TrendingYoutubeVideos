@@ -1,5 +1,5 @@
 # TrendingYoutubeVideos  
-An analysis on a list of ~47k trending videos appearances in Indonesia since the beginning of this year up to 13 Sep 2022 (around 200 trending videos were updated on each day). You can visit my project [here](https://deepnote.com/@tmtsmrsl/Trending-Youtube-Videos-in-Indonesia-2022-2b996b1b-6a67-4baa-966c-7e2d0a6610f2). Throughout the analysis I managed to solve the following questions:  
+An analysis on a list of ~47k trending videos appearances in Indonesia since the beginning of this year up to 13 Sep 2022 (around 200 trending videos were updated on each day). You can view the full report [here](https://deepnote.com/@tmtsmrsl/Trending-Youtube-Videos-in-Indonesia-2022-2b996b1b-6a67-4baa-966c-7e2d0a6610f2). Throughout the analysis I managed to solve the following questions:  
 * What are the most and least popular video categories in 2022?  
 * When is the optimal day/time to publish youtube videos?  
 * Which videos and channels appear the most on the trending page?  
